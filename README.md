@@ -1,3 +1,3 @@
-# Example
+# Manual na stranku
 
-This is website for Marko
+Basic configuration for website manual...
